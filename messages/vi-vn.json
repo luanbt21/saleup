@@ -1,4 +1,9 @@
 {
 	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"Login": "Đăng nhập",
+	"LoginWith": "Đăng nhập với",
+	"LoginDescription": "Nhập email của bạn bên dưới để đăng nhập vào tài khoản của bạn",
+	"Password": "Mật khẩu",
+	"ForgotYourPassword": "Quên mật khẩu?",
 	"hello_world": "Hello, {name} from vi-vn!"
 }
